@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omkar Nevse</h1>
-<h3 align="center">A passionate ML and Data science enthusiast from India</h3>
+<h3 align="center">A ML and Data science enthusiast from India</h3>
 
 - 🔭 I’m currently working on **Leveraging AI algorithms for Intelligent XFS optimisation**
 
